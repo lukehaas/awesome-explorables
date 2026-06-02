@@ -220,6 +220,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [awesome-livecoding](https://github.com/lvm/awesome-livecoding) - Curated list of live-coding resources.
 * [Coeffects](http://tomasp.net/coeffects/) - Context-aware programming languages.
 * [DynamicLand](https://dynamicland.org/) - Incubating a humane dynamic medium.
+* [Explorable Studio](https://milk-best-milk.github.io/explorable-studio/) - In-browser, no-code tool for building and sharing explorable explanations with sliders, charts and math.
 * [Flex - YC Research](https://harc.ycr.org/flex/) - Interactive programming and solution exploration tools
   * [Ohm](https://github.com/harc/ohm) - Visual parser generator and toolkit for building interpreters and compilers.
   * [Chorus](http://www.chorus-home.org) - Visual mobile programming using spreadsheet concepts
