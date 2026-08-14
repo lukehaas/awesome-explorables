@@ -73,6 +73,7 @@ Notable authors in the field include Bret Victor, Nicky Case, Vi Hart, Dan Shiff
 * [PCA Digit Embedding](https://marimo.io/p/@marimo/embedding-visualizer): Interactive visualization of handwritten digits using PCA from UCI ML dataset.
 * [Signal Decomposition](https://marimo.io/@public/signal-decomposition): Tutorial on breaking down complex time series signals using signal-decomp library.
 * [Interactive Matrices](https://marimo.io/p/@marimo/interactive-matrices): Demos including 2D slider, Gaussian distribution and PCA visualization.
+* [Immersive Linear Algebra](https://immersivemath.com/ila/index.html): The world's first linear algebra book with fully interactive figures. 
 
 
 
